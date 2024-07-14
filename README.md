@@ -69,4 +69,5 @@
 <hr>
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=bravo-phantom&theme=vision-friendly-dark&hide_border=false)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
