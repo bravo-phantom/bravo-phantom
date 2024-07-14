@@ -68,5 +68,5 @@
 
 <hr>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bravo-phantom&theme=vision-friendly-dark&hide_border=false" alt="bravo-phantom's GitHub Stats" />
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=bravo-phantom&theme=vision-friendly-dark&hide_border=false)
 
