@@ -68,5 +68,5 @@
 
 <hr>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&card_width=300&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&card_width=300&hide_total_contributions=true)](https://git.io/streak-stats)
