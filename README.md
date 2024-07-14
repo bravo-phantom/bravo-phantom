@@ -18,9 +18,13 @@
   <img src="https://img.shields.io/badge/Freelancer-blue?logo=freelancer&logoColor=white&style=for-the-badge" width="125"align="left">
   </a>
 
+  <br>
+
   <img src="https://img.shields.io/badge/---------------------black?style=for-the-badge" width="75" align="centre">
   <img src="https://komarev.com/ghpvc/?username=bravo-phantom&style=flat-square&color=blueviolet" align="centre">
   <img src="https://img.shields.io/badge/---------------------black?style=for-the-badge" width="75" align="centre">
+
+  <br>
 
   <img src="https://img.shields.io/badge/Gaming📄-black?style=for-the-badge" width="75" align="right">
   
@@ -64,3 +68,5 @@
 </div>
 
 <hr>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=dark&background=000000)](https://git.io/streak-stats)
