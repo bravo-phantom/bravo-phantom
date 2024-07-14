@@ -18,14 +18,6 @@
   <img src="https://img.shields.io/badge/Freelancer-blue?logo=freelancer&logoColor=white&style=for-the-badge" width="125"align="left">
   </a>
 
-  <br>
-
-  <img src="https://img.shields.io/badge/---------------------black?style=for-the-badge" width="75" align="centre">
-  <img src="https://komarev.com/ghpvc/?username=bravo-phantom&style=flat-square&color=blueviolet" align="centre">
-  <img src="https://img.shields.io/badge/---------------------black?style=for-the-badge" width="75" align="centre">
-
-  <br>
-
   <img src="https://img.shields.io/badge/Gaming📄-black?style=for-the-badge" width="75" align="right">
   
   <a href="https://discordapp.com/users/1178658023342870531">
@@ -35,6 +27,13 @@
   <a href="https://steamcommunity.com/id/bravophantom/">
   <img src="https://img.shields.io/badge/Steam-blue?logo=steam&logoColor=white&style=for-the-badge" width="85"align="right">
   </a>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/---------------------black?style=for-the-badge" width="75" align="centre">
+  <img src="https://komarev.com/ghpvc/?username=bravo-phantom&style=flat-square&color=blueviolet" align="centre">
+  <img src="https://img.shields.io/badge/---------------------black?style=for-the-badge" width="75" align="centre">
+
 </div>
 <br>
 <br>
