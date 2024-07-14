@@ -32,3 +32,12 @@
   <img src="https://img.shields.io/badge/Steam-blue?logo=steam&logoColor=white&style=for-the-badge" width="85"align="right">
   </a>
 </div>
+<br>
+<br>
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lucXc3ZW80czl1Y3hmdTFlOGkydWk3eG9pbDZtaTBxamdzbTNhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" height="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J0bTlkM2UycTh1NnZhb3V1ZTA3bjFzOGh2ZGo3a216NHMwdmJqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksGpB3UybkYLzZmMjL/giphy.gif" width="500" height="250"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lucXc3ZW80czl1Y3hmdTFlOGkydWk3eG9pbDZtaTBxamdzbTNhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" height="100"/>
+</div>
+
+<hr>
