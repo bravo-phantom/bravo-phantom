@@ -68,6 +68,5 @@
 
 <hr>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=dark&background=000000)](https://git.io/streak-stats) <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bravo-phantom&theme=vision-friendly-dark&hide_border=false" alt="bravo-phantom's GitHub Stats" />
 
