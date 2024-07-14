@@ -41,3 +41,26 @@
 </div>
 
 <hr>
+
+<div id="about-me" align="center">
+  <h3>
+  // Hello_World (: I'm_Bravo_Phantom; ☀
+    Unity Games Developer + <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF5anFhdG5scG0ybnowcDMzaDJ3cm1maDhsNXNwMDRrdm91N25wcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DVLJcMJNFGDqosxnwo/giphy.gif" width="30"> + Full Time Gamer
+  </h3>
+
+<br>
+
+<p align="left">
+✔️ Software = Unity Game Engine <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM1N2NzdzJmd21qMGF6NWRqczZ5NzhlbDBuMmJlaHM2eWpqYjBvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.gif" align="right" width="180"> <br>
+✔️ Language = C# <br>
+✔️ Experience = 2+ Years <br>
+✔️ Devices = PC, Mobile and WebGL <br>
+✔️ Platforms = Upwork + Freelancer <br>
+✔️ Full Time Work = Gaming <br>
+✔️ Gaming Skill Level = Ultra Plus Pro Max <br>
+✔️ Best Game Series = Call of Duty <br>
+</p>
+  
+</div>
+
+<hr>
