@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Steam-blue?logo=steam&logoColor=white&style=for-the-badge" width="85"align="right">
   </a>
 
-  <br>
+  <br><br>
 
   <img src="https://img.shields.io/badge/---------------------black?style=for-the-badge" width="75" align="centre">
   <img src="https://komarev.com/ghpvc/?username=bravo-phantom&style=flat-square&color=blueviolet" align="centre">
