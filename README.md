@@ -19,6 +19,8 @@
   </a>
 
   <img src="https://img.shields.io/badge/---------------------black?style=for-the-badge" width="75" align="centre">
+  <img src="https://komarev.com/ghpvc/?username=bravo-phantom&style=flat-square&color=blueviolet" align="centre">
+  <img src="https://img.shields.io/badge/---------------------black?style=for-the-badge" width="75" align="centre">
 
   <img src="https://img.shields.io/badge/Gaming📄-black?style=for-the-badge" width="75" align="right">
   
