@@ -20,8 +20,8 @@
 
   <img src="https://img.shields.io/badge/Gaming📄-black?style=for-the-badge" width="75" align="right">
   
-  <a href="https://discordapp.com/users/1178658023342870531">
-  <img src="https://img.shields.io/badge/Discord-purple?logo=discord&logoColor=white&style=for-the-badge" width="100" align="right">
+  <a href="https://www.youtube.com/@BravoPhantom">
+  <img src="https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=white&style=for-the-badge" width="100" align="right">
   </a>
   
   <a href="https://steamcommunity.com/id/bravophantom/">
