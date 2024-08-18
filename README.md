@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/Freelancer-blue?logo=freelancer&logoColor=white&style=for-the-badge" width="125"align="left">
   </a>
 
-  <a href="https://www.freelancer.pk/u/nabeelasad2007?redesign=t">
-  <img src="https://img.shields.io/badge/Itch-purple?logo=itch.io&logoColor=white&style=for-the-badge" width="75"align="center">
+  <a href="https://bravophantom.itch.io/">
+  <img src="https://img.shields.io/badge/Itch-purple?logo=itch.io&logoColor=white&style=for-the-badge" width="75"align="centre">
   </a>
 
   <img src="https://img.shields.io/badge/Gaming📄-black?style=for-the-badge" width="75" align="right">
