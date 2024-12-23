@@ -74,6 +74,6 @@
 
 <div id="Stats" align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" width="45%" align="left"/></a> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&card_width=400&hide_total_contributions=true" alt="GitHub Streak" width="45%" align="right"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" width="45%" align="left"/></a> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_total_contributions=true" alt="GitHub Streak" width="45%" align="right"/></a>
 
 </div>
