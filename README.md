@@ -62,9 +62,9 @@
 ✔️ Language = C# <br>
 ✔️ Experience = 2+ Years <br>
 ✔️ Devices = PC, Mobile and WebGL <br>
-✔️ Platforms = Upwork + Freelancer <br>
-✔️ Full Time Work = Gaming <br>
-✔️ Gaming Skill Level = Ultra Plus Pro Max <br>
+✔️ Platforms = Upwork | Freelancer | Direct Contact <br>
+✔️ Part Time Work = Gaming <br>
+✔️ Gaming Skill Level = Veteran <br>
 ✔️ Best Game Series = Call of Duty <br>
 </p>
   
