@@ -52,7 +52,7 @@
 <div id="about-me" align="center">
   <h3>
   // Hello_World (: I'm_Bravo_Phantom; ☀
-    Unity Games Developer + <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF5anFhdG5scG0ybnowcDMzaDJ3cm1maDhsNXNwMDRrdm91N25wcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DVLJcMJNFGDqosxnwo/giphy.gif" width="30"> + Full Time Gamer
+    Unity Games Developer + <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF5anFhdG5scG0ybnowcDMzaDJ3cm1maDhsNXNwMDRrdm91N25wcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DVLJcMJNFGDqosxnwo/giphy.gif" width="30"> + Part Time Gamer
   </h3>
 
 <br>
