@@ -66,8 +66,8 @@
 <br>
 🌟GAMING
 <br>
-✔️ Routine = When I want to (An hour or two almost regularly) <br>
-✔️ Preference = Immersive Storydriven Experiences <br>
+✔️ Session Routine = Causal Gaming
+✔️ Preference = Immersive Story-driven Experiences <br>
 ✔️ Primary Platform = Steam <br>
 ✔️ Best Game Series = Call of Duty <br>
 </p>
