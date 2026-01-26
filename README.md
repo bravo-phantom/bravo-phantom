@@ -81,6 +81,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bravophantom&theme=dark&border_radius=1&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <br>
 <br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bravo-phantom)](https://git.io/streak-stats)
 <br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bravophantom&theme=dark&border_radius=1&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400&hide_total_contributions=true" alt="GitHub Streak" /></a>
 <br>
