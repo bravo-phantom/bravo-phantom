@@ -34,17 +34,17 @@
 
   <br><br>
 
-  <img src="https://img.shields.io/badge/---------------------black?style=for-the-badge" width="75" align="centre">
-  <img src="https://komarev.com/ghpvc/?username=bravo-phantom&style=flat-square&color=blueviolet" align="centre">
-  <img src="https://img.shields.io/badge/---------------------black?style=for-the-badge" width="75" align="centre">
+  <img src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75" align="centre">
+  <img src="https://komarev.com/ghpvc/?username=bravo-phantom&style=for-the-badge&color=blueviolet" align="centre">
+  <img src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75" align="centre">
 
 </div>
 <br>
 <br>
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lucXc3ZW80czl1Y3hmdTFlOGkydWk3eG9pbDZtaTBxamdzbTNhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" height="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDUwNXl5ZDA4YTh0bjN6N2k2aG94bzlvYjh4cjhldGRoZjNnb3ptZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dgErPFlMkzz9UcPwVI/giphy.gif" height="175"/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J0bTlkM2UycTh1NnZhb3V1ZTA3bjFzOGh2ZGo3a216NHMwdmJqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksGpB3UybkYLzZmMjL/giphy.gif" width="500" height="250"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lucXc3ZW80czl1Y3hmdTFlOGkydWk3eG9pbDZtaTBxamdzbTNhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" height="100"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDUwNXl5ZDA4YTh0bjN6N2k2aG94bzlvYjh4cjhldGRoZjNnb3ptZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dgErPFlMkzz9UcPwVI/giphy.gif" height="175"/>
 </div>
 
 <hr>
