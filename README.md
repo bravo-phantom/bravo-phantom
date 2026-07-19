@@ -13,19 +13,19 @@
   </a>
 
   <a href="mailto:bravophantom2007@gmail.com">
-  <img title="Contact me" src="https://img.shields.io/badge/Email-yellow?logo=gmail&logoColor=white&style=for-the-badge" align="center">
+  <img title="Contact me" src="https://img.shields.io/badge/Email-orange?logo=gmail&logoColor=white&style=for-the-badge" align="center">
   </a>
   
   <a href="https://github.com/bravo-phantom">
   <img title="My Home - Learn everything about me" src="https://img.shields.io/badge/Website-white?logo=chromatic&logoColor=black&style=for-the-badge" align="center">
   </a>
-  
-  <a href="https://bravophantom.itch.io/">
-  <img title="Checkout my games and assets" src="https://img.shields.io/badge/Itch.io-green?logo=itch.io&logoColor=white&style=for-the-badge" align="center">
-  </a>
 
   <a href="https://x.com/Bravo_Phantom">
   <img title="Follow me on X (Twitter)" src="https://img.shields.io/badge/Twitter-blue?logo=x&logoColor=white&style=for-the-badge" align="center">
+  </a>
+  
+  <a href="https://bravophantom.itch.io/">
+  <img title="Checkout my games and assets" src="https://img.shields.io/badge/Itch.io-purple?logo=itch.io&logoColor=white&style=for-the-badge" align="center">
   </a>
 
   <br><br>
