@@ -8,28 +8,28 @@
 
 <div id="badges"  align="center">
   
-  <a href="mailto:bravophantom2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=for-the-badge" align="left">
+  <a href="https://www.youtube.com/@BravoPhantom">
+  <img src="https://img.shields.io/badge/YouTube-red?logo=Youtube&logoColor=white&style=for-the-badge" align="left">
   </a>
-
-  <a href="https://x.com/Bravo_Phantom">
-  <img src="https://img.shields.io/badge/Twitter (X)-black?logo=x&logoColor=white&style=for-the-badge" align="left">
+  
+  <a href="mailto:bravophantom2007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-black?logo=gmail&logoColor=white&style=for-the-badge" align="left">
   </a>
   
   <a href="https://github.com/bravo-phantom">
-  <img src="https://img.shields.io/badge/Website-1000bf?logo=chromatic&logoColor=white&style=for-the-badge" align="centre">
+  <img src="https://img.shields.io/badge/Website-white?logo=chromatic&logoColor=black&style=for-the-badge" align="centre">
   </a>
   
   <a href="https://bravophantom.itch.io/">
-  <img src="https://img.shields.io/badge/Itch-purple?logo=itch.io&logoColor=white&style=for-the-badge" align="centre">
+  <img src="https://img.shields.io/badge/Itch.io-purple?logo=itch.io&logoColor=white&style=for-the-badge" align="centre">
   </a>
 
   <a href="https://www.youtube.com/@BravoPhantomGaming">
-  <img src="https://img.shields.io/badge/Youtube (Gaming)-red?logo=Youtube&logoColor=white&style=for-the-badge" align="right">
+  <img src="https://img.shields.io/badge/Gaming-red?logo=Youtube&logoColor=white&style=for-the-badge" align="right">
   </a>
-  
-  <a href="https://www.youtube.com/@BravoPhantom">
-  <img src="https://img.shields.io/badge/YouTube-red?logo=Youtube&logoColor=white&style=for-the-badge" align="right">
+
+  <a href="https://x.com/Bravo_Phantom">
+  <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge" align="right">
   </a>
 
   <br><br>
