@@ -46,9 +46,7 @@
 <hr>
 
 <div id="about-me" align="center">
-  <h3>
-  // Hello_World (: I'm Bravo Phantom; 🔆 Building Games + <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y281eGgyeDJhZWszN3AyMTNndXh1MnF5NGxicjRlc2lwamtyeGZmdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XGDUUQugyQVHYQVqyO/giphy.gif" width="50"> + Writing Code
-  </h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=9D1DF7&background=FFFFFF00&center=true&vCenter=true&width=650&separator=%3C&lines=%2F%2F+Hello_World+(%3A+I'm+Bravo+Phantom;%3C...Building+Games+%F0%9F%94%86+Writing+Code;" alt="Typing SVG" /></a>
 
 <br>
 
@@ -73,6 +71,12 @@
 
 <div id="Stats" align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" width="45%" align="left"/></a> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_total_contributions=true" alt="GitHub Streak" width="45%" align="right"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" width="45%" align="left"/></a> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_total_contributions=true" alt="GitHub Streak" width="45%" align="right"/></a>
+
+</div>
+
+<div id="Stats" align="center">
+
+<a href="https://github-stats-extended.vercel.app"><img src="https://github-stats-extended.vercel.app/api?username=bravophantom&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&card_width=400" width="45%" align="left"></a>
 
 </div>
