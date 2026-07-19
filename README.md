@@ -51,8 +51,7 @@
 
 <div id="about-me" align="center">
   <h3>
-  // Hello_World (: I'm_Bravo_Phantom; ☀
-    Games Developer + <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF5anFhdG5scG0ybnowcDMzaDJ3cm1maDhsNXNwMDRrdm91N25wcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DVLJcMJNFGDqosxnwo/giphy.gif" width="30"> + Part-Time Gamer
+  // Hello_World (: I'm Bravo Phantom; 🔆 Building Games + <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y281eGgyeDJhZWszN3AyMTNndXh1MnF5NGxicjRlc2lwamtyeGZmdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XGDUUQugyQVHYQVqyO/giphy.gif" width="50"> + Writing Code
   </h3>
 
 <br>
