@@ -23,13 +23,13 @@
   <a href="https://bravophantom.itch.io/">
   <img src="https://img.shields.io/badge/Itch-purple?logo=itch.io&logoColor=white&style=for-the-badge" align="centre">
   </a>
-  
-  <a href="https://www.youtube.com/@BravoPhantom">
-  <img src="https://img.shields.io/badge/YouTube-red?logo=Youtube&logoColor=white&style=for-the-badge" align="right">
-  </a>
 
   <a href="https://www.youtube.com/@BravoPhantomGaming">
   <img src="https://img.shields.io/badge/Youtube (Gaming)-red?logo=Youtube&logoColor=white&style=for-the-badge" align="right">
+  </a>
+  
+  <a href="https://www.youtube.com/@BravoPhantom">
+  <img src="https://img.shields.io/badge/YouTube-red?logo=Youtube&logoColor=white&style=for-the-badge" align="right">
   </a>
 
   <br><br>
