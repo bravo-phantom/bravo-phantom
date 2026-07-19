@@ -8,28 +8,28 @@
 
 <div id="badges"  align="center">
   
-  <img src="https://img.shields.io/badge/Work📄-black?style=for-the-badge" width="75" align="left">
-  
-  <a href="https://www.upwork.com/freelancers/~01254b3114eeee3e48">
-  <img src="https://img.shields.io/badge/Upwork-green?logo=upwork&logoColor=white&style=for-the-badge" width="100" align="left">
-  </a>
-  
-  <a href="https://www.freelancer.pk/u/nabeelasad2007?redesign=t">
-  <img src="https://img.shields.io/badge/Freelancer-blue?logo=freelancer&logoColor=white&style=for-the-badge" width="125"align="left">
+  <a href="bravophantom2007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=for-the-badge" align="left">
   </a>
 
+  <a href="https://x.com/Bravo_Phantom">
+  <img src="https://img.shields.io/badge/Twitter (X)-black?logo=x&logoColor=white&style=for-the-badge" align="left">
+  </a>
+  
+  <a href="https://github.com/bravo-phantom">
+  <img src="https://img.shields.io/badge/Website-1000bf?logo=chromatic&logoColor=white&style=for-the-badge" align="centre">
+  </a>
+  
   <a href="https://bravophantom.itch.io/">
-  <img src="https://img.shields.io/badge/Itch-purple?logo=itch.io&logoColor=white&style=for-the-badge" width="75"align="centre">
+  <img src="https://img.shields.io/badge/Itch-purple?logo=itch.io&logoColor=white&style=for-the-badge" align="centre">
   </a>
-
-  <img src="https://img.shields.io/badge/Gaming📄-black?style=for-the-badge" width="75" align="right">
   
   <a href="https://www.youtube.com/@BravoPhantom">
-  <img src="https://img.shields.io/badge/Youtube-red?logo=Youtube&logoColor=white&style=for-the-badge" width="100" align="right">
+  <img src="https://img.shields.io/badge/YouTube-red?logo=Youtube&logoColor=white&style=for-the-badge" align="right">
   </a>
-  
-  <a href="https://steamcommunity.com/id/bravophantom/">
-  <img src="https://img.shields.io/badge/Steam-blue?logo=steam&logoColor=white&style=for-the-badge" width="85"align="right">
+
+  <a href="https://www.youtube.com/@BravoPhantomGaming">
+  <img src="https://img.shields.io/badge/Youtube (Gaming)-red?logo=Youtube&logoColor=white&style=for-the-badge" align="right">
   </a>
 
   <br><br>
