@@ -9,31 +9,23 @@
 <div id="badges"  align="center">
 
   <a href="https://www.youtube.com/@BravoPhantom?sub_confirmation=1">
-  <img title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/★-ThisIsNotShown?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&labelColor=ff1717&color=%23ff4747" align="center">
+  <img title="Subscribe to my YouTube Channel" src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge" align="center">
   </a>
 
   <a href="mailto:bravophantom2007@gmail.com">
-  <img title="Contact me" src="https://img.shields.io/badge/★-ThisIsNotShown?style=for-the-badge&logo=gmail&logoColor=white&label=Email&labelColor=ff1717&color=%23ff4747" align="center">
-  </a>
-  
-  <a href="mailto:bravophantom2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-yellow?logo=gmail&logoColor=white&style=for-the-badge" align="center">
+  <img title="Contact me" src="https://img.shields.io/badge/Email-yellow?logo=gmail&logoColor=white&style=for-the-badge" align="center">
   </a>
   
   <a href="https://github.com/bravo-phantom">
-  <img src="https://img.shields.io/badge/Website-white?logo=chromatic&logoColor=black&style=for-the-badge" align="center">
+  <img title="My Home - Learn everything about me" src="https://img.shields.io/badge/Website-white?logo=chromatic&logoColor=black&style=for-the-badge" align="center">
   </a>
   
   <a href="https://bravophantom.itch.io/">
-  <img src="https://img.shields.io/badge/Itch.io-purple?logo=itch.io&logoColor=white&style=for-the-badge" align="center">
+  <img title="Checkout my games and assets" src="https://img.shields.io/badge/Itch.io-green?logo=itch.io&logoColor=white&style=for-the-badge" align="center">
   </a>
 
   <a href="https://x.com/Bravo_Phantom">
-  <img src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge" align="center">
-  </a>
-  
-  <a href="https://www.youtube.com/@BravoPhantomGaming">
-  <img src="https://img.shields.io/badge/Gaming-red?logo=Youtube&logoColor=white&style=for-the-badge" align="center">
+  <img title="Follow me on X (Twitter)" src="https://img.shields.io/badge/Twitter-blue?logo=x&logoColor=white&style=for-the-badge" align="center">
   </a>
 
   <br><br>
