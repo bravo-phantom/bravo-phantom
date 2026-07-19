@@ -8,7 +8,7 @@
 
 <div id="badges"  align="center">
   
-  <a href="bravophantom2007@gmail.com">
+  <a href="mailto:bravophantom2007@gmail.com">
   <img src="https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white&style=for-the-badge" align="left">
   </a>
 
