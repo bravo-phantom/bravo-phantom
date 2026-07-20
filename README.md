@@ -32,8 +32,7 @@
   <img title="Checkout my games and assets" src="https://img.shields.io/badge/Itch.io-purple?logo=itch.io&logoColor=white&style=for-the-badge" align="center">
   </a>
 
-  <br><br>
-
+  <br>
   <img src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75" align="centre">
   <img src="https://komarev.com/ghpvc/?username=bravo-phantom&style=for-the-badge&color=blueviolet" align="centre">
   <img src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75" align="centre">
