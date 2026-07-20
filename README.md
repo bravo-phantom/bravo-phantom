@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75" align="centre">
-  <img src="https://komarev.com/ghpvc/?username=bravo-phantom&style=for-the-badge&color=blueviolet" align="centre">
-  <img src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75" align="centre">
+  <img alt="Line" src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75" align="centre">
+  <img alt="Profile Views Counter" src="https://komarev.com/ghpvc/?username=bravo-phantom&style=for-the-badge&color=blueviolet&abbreviated=true" align="centre">
+  <img alt="Line" src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75" align="centre">
 </p>
 
 </div>
