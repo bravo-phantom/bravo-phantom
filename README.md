@@ -47,41 +47,43 @@
   <a href="https://git.io/typing-svg"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Game_Dev+%E2%80%A2+Unity+%E2%80%A2+C%23;Indie+Games+Developer+%F0%9F%95%B9%EF%B8%8F;%F0%9F%8E%A8+Sharing+My+Dev_Journey+...;....+Always+Learning+Something+New+%F0%9F%94%86"></a>
 </p>
 
+ <!-- Code Block - About Me -->
+<p align="center">
+  
+```typescript
+const bravoPhantom
+{
+    alias: "Bravo Phantom",
+    role: "Indie Game Developer"
+    experience: "3+ Years of Hands-On Practical Experience",
+    techStack: "Unity - C# - VisualStudio - Git - GitHub - TypeScript - GitLab",
+    genre: "Casual, Hyper-Casual, Story-Driven, FPS, Action, Adventure, Puzzle"
+}
+
+const workingOn
+{
+    currentlyBuilding()
+      {  return "My First Commercial Indie Game";  },
+    currentlyLearning()
+      {  return "Game Architecture, Clean Code, Game Design";  },
+    currentlySearching()
+      {  return  "Looking for a Successful Indie Game Publisher."
+
+    availableForCollaboration: true,
+    currentObjective: () => "Get Started ASAP !"
+};
+```
+</p>
+
 <!-- Line Break - Invisible -->
 <br>
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
-<p align="left">
-🌟 GAME DEV
-<br>
-✔️ Software = Unity Engine <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM1N2NzdzJmd21qMGF6NWRqczZ5NzhlbDBuMmJlaHM2eWpqYjBvcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.gif" align="right" width="180"> <br>
-✔️ Language = C# <br>
-✔️ Experience = 3+ Years <br>
-<br>
-🌟GAMING
-<br>
-✔️ Session Routine = Causal Gaming
-✔️ Preference = Immersive Story-driven Experiences <br>
-✔️ Primary Platform = Steam <br>
-✔️ Best Game Series = Call of Duty <br>
+<!-- Thumbs Up GIF -->
+<p align="center">
+  <img alt="Thumbs Up GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB5dnBhMzc4NXoxeXhrcXZydmtyYnVmcnBvazI3djR3MnV3bGJiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Az1m5CBEqzznCDhNrt/giphy.gif" width="500"/>
 </p>
-  
-</div>
 
+<!-- Line Break - Visible -->
 <hr>
 
 <div id="Stats" align="center">
