@@ -4,6 +4,10 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZiMGhzczl1cno1YzhrbXRrbTZqc3g2eWFlNnNpeXVmbHEzNXFpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fynAG6TbXlff9iUL1c/giphy.gif" width="200"/>  
 </div>
 
+<div id="about-me" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=9D1DF7&background=FFFFFF00&center=true&vCenter=true&width=650&separator=%3C&lines=%2F%2F+Hello_World+(%3A+I'm+Bravo+Phantom;%3C...Building+Games+%F0%9F%94%86+Writing+Code;" alt="Typing SVG" /></a
+</div>
+
 <hr>
 
 <div id="badges"  align="center">
@@ -71,12 +75,12 @@
 
 <div id="Stats" align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" width="45%" align="left"/></a> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_total_contributions=true" alt="GitHub Streak" width="45%" align="right"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" width="45%"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_total_contributions=true" alt="GitHub Streak" width="45%"/></a>
 
-</div>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bravo Phantom's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=bravo-phantom&theme=high-contrast&border_color=FFFFFF"/></a>
 
-<div id="Stats" align="center">
-
-<a href="https://github-stats-extended.vercel.app"><img src="https://github-stats-extended.vercel.app/api?username=bravophantom&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&card_width=400" width="45%" align="left"></a>
+<a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=bravo-phantom&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" width="510" align="left"></a>
+<a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=4&theme=great-gatsby" align="right"></a>
 
 </div>
