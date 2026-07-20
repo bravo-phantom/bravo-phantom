@@ -62,7 +62,7 @@ const bravoPhantom
     alias: "Bravo Phantom",
     role: "Indie Game Developer"
     experience: "3+ Years of Hands-On Practical Experience",
-    techStack: "Unity - C# - VisualStudio - Git - GitHub - TypeScript - GitLab",
+    techStack: "Unity - C# - Visual Studio - Git - GitHub",
     genre: "Casual, Hyper-Casual, Story-Driven, FPS, Action, Adventure, Puzzle"
 }
 
