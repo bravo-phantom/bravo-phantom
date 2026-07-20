@@ -10,7 +10,7 @@
   <a href="https://git.io/typing-svg"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=9D1DF7&background=FFFFFF00&center=true&vCenter=true&width=650&separator=%3C&lines=%2F%2F+Hello_World+(%3A+I'm+Bravo+Phantom;%3C...Building+Games+%F0%9F%94%86+Writing+Code;"></a>
 </p>
 
-<!-- Line break -->
+<!-- Line break - Visible -->
 <hr>
 
 <!-- Badges / Links -->
@@ -24,27 +24,30 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img alt="Line" src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75" align="centre">
-  <img alt="Profile Views Counter" src="https://komarev.com/ghpvc/?username=bravo-phantom&style=for-the-badge&color=blueviolet&abbreviated=true" align="centre">
-  <img alt="Line" src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75" align="centre">
+  <img alt="Line" src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75">
+  <img alt="Profile Views Counter" src="https://komarev.com/ghpvc/?username=bravo-phantom&style=for-the-badge&color=blueviolet&abbreviated=true">
+  <img alt="Line" src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75">
 </p>
 
-</div>
+<!-- Line Break - Invisible -->
 <br>
-<br>
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjh4dHcwZWYzcDltYmZnN3VxY2l3dGFpcjA4aDk5M2liM3lmOXYwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/deKZM8D0orxwQ18qtB/giphy.gif" height="100" />
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J0bTlkM2UycTh1NnZhb3V1ZTA3bjFzOGh2ZGo3a216NHMwdmJqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksGpB3UybkYLzZmMjL/giphy.gif" width="500" height="250"/>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjh4dHcwZWYzcDltYmZnN3VxY2l3dGFpcjA4aDk5M2liM3lmOXYwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/deKZM8D0orxwQ18qtB/giphy.gif" height="100" />
-</div>
 
+<!-- Game Start & Arrows GIFs -->
+<p align="center">
+  <img alt="Arrow GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjh4dHcwZWYzcDltYmZnN3VxY2l3dGFpcjA4aDk5M2liM3lmOXYwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/deKZM8D0orxwQ18qtB/giphy.gif" height="100" />
+  <img alt="Game Start GIF"src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J0bTlkM2UycTh1NnZhb3V1ZTA3bjFzOGh2ZGo3a216NHMwdmJqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ksGpB3UybkYLzZmMjL/giphy.gif" width="500" height="250"/>
+  <img alt="Arrow GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjh4dHcwZWYzcDltYmZnN3VxY2l3dGFpcjA4aDk5M2liM3lmOXYwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/deKZM8D0orxwQ18qtB/giphy.gif" height="100" />
+</p>
+
+<!-- Line Break - Visible -->
 <hr>
 
-<div id="about-me" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=9D1DF7&background=FFFFFF00&center=true&vCenter=true&width=650&separator=%3C&lines=%2F%2F+Hello_World+(%3A+I'm+Bravo+Phantom;%3C...Building+Games+%F0%9F%94%86+Writing+Code;" alt="Typing SVG" /></a>
-</div>
+<!-- Typing SVG - My Skills -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Game_Dev+%E2%80%A2+Unity+%E2%80%A2+C%23;Indie+Games+Developer+%F0%9F%95%B9%EF%B8%8F;%F0%9F%8E%A8+Sharing+My+Dev_Journey+...;....+Always+Learning+Something+New+%F0%9F%94%86"></a>
+</p>
 
-<div id="about-me" align="left">
+<!-- Line Break - Invisible -->
 <br>
 
 ```javascript
