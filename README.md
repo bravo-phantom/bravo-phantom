@@ -86,14 +86,18 @@ const workingOn
 <!-- Line Break - Visible -->
 <hr>
 
-<div id="Stats" align="center">
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=9D1DF7&center=true&vCenter=true&width=650&lines=Checkout+My+Git+Stats+%E2%9C%A8;...+as+well+as+Contribution+Graph+!;%2B+Streak+%26+Commits+%F0%9F%94%A5;...+MADE+WITH+%F0%9F%A4%8D"></a>
+</p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" width="45%"/></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_total_contributions=true" alt="GitHub Streak" width="45%"/></a>
+<!-- Stats -->
+<p align="center">
+  <a href="https://git.io/streak-stats"><img alt="GitHub Contributions" src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" width="45%"/></a>
+  <a href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=bravo-phantom&theme=vision-friendly-dark&border_radius=1&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=400&hide_total_contributions=true" width="45%"/></a>
+  
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=bravo-phantom&theme=high-contrast&border_color=FFFFFF"/></a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Bravo Phantom's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=bravo-phantom&theme=high-contrast&border_color=FFFFFF"/></a>
-
-<a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=bravo-phantom&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" width="500" align="left"></a>
-<a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=4&theme=great-gatsby" align="right"></a>
-
-</div>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=bravo-phantom&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" width="500" align="center"></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=4&theme=great-gatsby" align="center"></a>
+</p>
