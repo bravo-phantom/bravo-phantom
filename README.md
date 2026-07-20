@@ -7,7 +7,7 @@
 
 <!-- Typing SVG - Name and intro -->
 <p align="center">
-  <a img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=9D1DF7&background=FFFFFF00&center=true&vCenter=true&width=650&separator=%3C&lines=%2F%2F+Hello_World+(%3A+I'm+Bravo+Phantom;%3C...Building+Games+%F0%9F%94%86+Writing+Code;"></a>
+  <a href="https://git.io/typing-svg"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=9D1DF7&background=FFFFFF00&center=true&vCenter=true&width=650&separator=%3C&lines=%2F%2F+Hello_World+(%3A+I'm+Bravo+Phantom;%3C...Building+Games+%F0%9F%94%86+Writing+Code;"></a>
 </p>
 
 <!-- Line break -->
