@@ -7,7 +7,7 @@
 
 <!-- Typing SVG - Name and intro -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=9D1DF7&background=FFFFFF00&center=true&vCenter=true&width=650&separator=%3C&lines=%2F%2F+Hello_World+(%3A+I'm+Bravo+Phantom;%3C...Building+Games+%F0%9F%94%86+Writing+Code;"></a>
+  <a img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=9D1DF7&background=FFFFFF00&center=true&vCenter=true&width=650&separator=%3C&lines=%2F%2F+Hello_World+(%3A+I'm+Bravo+Phantom;%3C...Building+Games+%F0%9F%94%86+Writing+Code;"></a>
 </p>
 
 <!-- Line break -->
@@ -22,6 +22,7 @@
   <a href="https://bravophantom.itch.io/"><img alt="Itch.io" title="Checkout my games and assets" src="https://img.shields.io/badge/Itch.io-purple?logo=itch.io&logoColor=white&style=for-the-badge"></a>
 </p>
 
+<!-- Profile Views Counter -->
 <p align="center">
   <img alt="Line" src="https://img.shields.io/badge/★ ---------------------black?style=for-the-badge" width="75" align="centre">
   <img alt="Profile Views Counter" src="https://komarev.com/ghpvc/?username=bravo-phantom&style=for-the-badge&color=blueviolet&abbreviated=true" align="centre">
