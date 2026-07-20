@@ -1,3 +1,9 @@
+<!--
+• <br> means invisible line break
+• <hr> means visible line break
+• alt="" means text that will show if the element/image/whatever doesn't load
+-->
+
 <!--  PlayStation Controller & GOTY GIFs -->
 <p align="center">
   <img alt="PS Controller GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZiMGhzczl1cno1YzhrbXRrbTZqc3g2eWFlNnNpeXVmbHEzNXFpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fynAG6TbXlff9iUL1c/giphy.gif" width="200"/>
@@ -86,7 +92,7 @@ const workingOn
 <!-- Line Break - Visible -->
 <hr>
 
-<!-- Typing SVG -->
+<!-- Typing SVG - GitHub Stats and Streaks -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=9D1DF7&center=true&vCenter=true&width=650&lines=Checkout+My+Git+Stats+%E2%9C%A8;...+as+well+as+Contribution+Graph+!;%2B+Streak+%26+Commits+%F0%9F%94%A5;...+MADE+WITH+%F0%9F%A4%8D"></a>
 </p>
@@ -98,6 +104,6 @@ const workingOn
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=bravo-phantom&theme=high-contrast&border_color=FFFFFF"/></a>
 
-  <a href="https://github.com/stats-organization/github-stats-extended"><img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=bravo-phantom&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" width="500" align="center"></a>
-  <a href="https://github.com/stats-organization/github-stats-extended"><img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=4&theme=great-gatsby" align="center"></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=bravo-phantom&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" width="500"></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=4&theme=great-gatsby"></a>
 </p>
