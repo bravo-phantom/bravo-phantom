@@ -4,6 +4,12 @@
 • alt="" means text that will show if the element/image/whatever doesn't load
 -->
 
+<!--  Typing SVG + Dark Mode GIF -->
+<p align="right">
+  <a href="https://git.io/typing-svg"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=15&pause=1000&color=E5E5E5&background=0E0E0E&center=true&vCenter=true&width=275&height=40&lines=Best+viewed+in+DARK+MODE+%F0%9F%98%8E"></a>
+  <img alt="Dark Mode GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l4eDN0ZmZuc2pueWthZ2VmcTM1c3dlNnRxNjZqdTBibHZjZG5qcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lDdzZgh4umS6AZfMg7/giphy.gif" width="50"/>
+</p>
+
 <!--  PlayStation Controller & GOTY GIFs -->
 <p align="center">
   <img alt="PS Controller GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZiMGhzczl1cno1YzhrbXRrbTZqc3g2eWFlNnNpeXVmbHEzNXFpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fynAG6TbXlff9iUL1c/giphy.gif" width="200"/>
