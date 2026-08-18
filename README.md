@@ -30,7 +30,8 @@
   <a href="https://www.youtube.com/@BravoPhantom?sub_confirmation=1"><img alt="YouTube" title="Subscribe to my YouTube Channel" src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:bravophantom2007@gmail.com"><img alt="Email" title="Contact me" src="https://img.shields.io/badge/Email-orange?logo=gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://bravophantom.framer.website"><img alt="Website" title="My Hub - Learn everything about me" src="https://img.shields.io/badge/Website-white?logo=chromatic&logoColor=black&style=for-the-badge"></a>
-  <a href="https://x.com/Bravo_Phantom"><img alt="Twitter(X)" title="Follow me on X (Twitter)" src="https://img.shields.io/badge/Twitter-blue?logo=x&logoColor=white&style=for-the-badge"></a>
+  <a href="https://x.com/Bravo_Phantom"><img alt="Twitter(X)" title="Follow me on X (Twitter)" src="https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/nabeela7ad/"><img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=x&logoColor=white&style=for-the-badge"></a>
   <a href="https://bravophantom.itch.io/"><img alt="Itch.io" title="Checkout my games and assets" src="https://img.shields.io/badge/Itch.io-purple?logo=itch.io&logoColor=white&style=for-the-badge"></a>
 </p>
 
