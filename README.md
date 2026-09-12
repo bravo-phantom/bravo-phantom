@@ -76,7 +76,7 @@ const bravoPhantom
 const workingOn
 {
     currentlyBuilding()
-      {  return "My First Commercial Indie Game";  },
+      {  return "Nuke Simulator ☢️ (TBA on Steam)";  },
     currentlyLearning()
       {  return "Game Architecture, Clean Code, Game Design";  },
     currentlySearching()
