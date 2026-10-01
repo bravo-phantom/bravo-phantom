@@ -68,22 +68,22 @@ const bravoPhantom
 {
     alias: "Bravo Phantom",
     role: "Indie Game Developer"
-    experience: "3+ Years of Hands-On Practical Experience",
-    techStack: "Unity - C# - Visual Studio - Git - GitHub",
+    experience: "3+ Years of Hands-On Practical Work",
+    techStack: "Unity - C# - Visual Studio - Git - GitHub - GitLab - Git LFS - Windows - macOS - Android - iOS - WebGL - Google Play Console - Itch",
     genre: "Casual, Hyper-Casual, Story-Driven, FPS, Action, Adventure, Puzzle"
 }
 
 const workingOn
 {
     currentlyBuilding()
-      {  return "Nuke Simulator ☢️ (TBA on Steam)";  },
+      {  return "Nuke Simulator ☢️ (TBA Soon...)";  },
     currentlyLearning()
-      {  return "Game Architecture, Clean Code, Game Design";  },
+      {  return "Game Architecture, Design Patterns, Game Design, Multiplayer...";  },
     currentlySearching()
-      {  return  "Looking for a Successful Indie Game Publisher."
+      {  return  "Friendly & Confident Game Publisher"
 
     availableForCollaboration: true,
-    currentObjective: () => "Get Started ASAP !"
+    currentObjective: () => "Complete Prototyping Phase for Nuke Simulator ☢️"
 };
 ```
 </p>
